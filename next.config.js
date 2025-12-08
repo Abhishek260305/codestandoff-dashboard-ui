@@ -8,7 +8,7 @@ module.exports = {
         name: 'dashboard_ui',
         filename: 'static/chunks/remoteEntry.js',
         exposes: {
-          './Dashboard': './src/components/Dashboard',
+          './Dashboard': './pages/Dashboard',
         },
         shared: {
           react: {
