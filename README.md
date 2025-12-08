@@ -50,5 +50,5 @@ This application exposes the `Dashboard` component via Module Federation, which 
 
 ## Repository
 
-https://github.com/Abhishek260305/dashboard-ui
+https://github.com/Abhishek260305/codestandoff-dashboard-ui
 
